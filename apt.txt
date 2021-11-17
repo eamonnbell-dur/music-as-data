@@ -1,1 +1,2 @@
 libsndfile-dev
+ffmpeg
