@@ -1,2 +1,6 @@
 .ipynb_checkpoints/
 data/gallery-dl/
+.ipython/
+.jupyter-server-log.txt
+.jupyter/
+.local/
