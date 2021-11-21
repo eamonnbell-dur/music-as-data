@@ -4,3 +4,4 @@ data/gallery-dl/
 .jupyter-server-log.txt
 .jupyter/
 .local/
+.cache/
