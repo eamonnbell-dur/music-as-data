@@ -4,6 +4,10 @@ Introductory lectures on topics in digital musicology.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eamonnbell-dur/music-as-data/HEAD)
 
-## 0. Introduction to music as data
+## L0. Introduction to Music as Data (Lecture)
 
-Introductory lecture and lab tasks, demonstrating some computer applications to the study of music.
+Introductory lecture demonstrating some computer applications to the study of music.
+
+## P0. Introduction to Music as Data (Practical)
+
+Lab tasks exploring some computer applications to the study of music explored in the accompanying lecture material.
