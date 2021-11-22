@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
-data/gallery-dl/
+data/twitter/
+data/gallery_dl/
 .ipython/
 .jupyter-server-log.txt
 .jupyter/
